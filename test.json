@@ -25,7 +25,7 @@
       "url": "http://petstore.swagger.io/v2"
     }
   ],
-  "tags1": [
+  "tags": [
     {
       "name": "pet",
       "description": "Everything about your Pets",
@@ -48,7 +48,7 @@
     }
   ],
   "paths": {
-    "/pet": {
+    "/pet1": {
       "put": {
         "tags": [
           "pet"
